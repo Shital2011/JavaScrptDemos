@@ -1,0 +1,21 @@
+<html>
+<head></head>
+<body>
+<div id="d1"></div>
+<div id="d2"></div>
+<script>
+  var names=["Tushar","Nilesh","rohan","kishor"."amol"];
+
+
+document.getElementById("d1").inerHTML=names;
+
+</Script>
+
+</body>
+</html>
+
+
+
+
+
+
